@@ -15,4 +15,5 @@ build/
 .vscode/
 
 # OS
-.DS_Store
+
+venv/
